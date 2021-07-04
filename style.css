@@ -79,7 +79,8 @@ h2{
 }
 
 #stack-color{
-    border-left: 7px solid rgb(223, 102, 55);
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(230, 157, 139),rgb(179, 72, 11));
     border-image-slice: 1;
 }
 #baby-color{
